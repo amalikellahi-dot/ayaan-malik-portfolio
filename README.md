@@ -1,1 +1,1 @@
-# ayaan-malik-portfolio
+This repo has a one-page website for Ayaan Malik. It shows a hero banner, a physique gallery, a status/dashboard section, and a contact area. It’s low-key, moody, and made to look like a personal profile screen.
