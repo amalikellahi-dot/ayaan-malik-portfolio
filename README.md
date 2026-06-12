@@ -1,1 +1,2 @@
-This repo has a one-page website for Ayaan Malik. It shows a hero banner, a physique gallery, a status/dashboard section, and a contact area. It’s low-key, moody, and made to look like a personal profile screen.
+Ayaan Malik portfolio — a dark one-page site with fitness and anime-style graphics
+A simple personal site showing a hero section, physique gallery, dashboard cards, and contact info.
