@@ -1,6 +1,6 @@
-# Ayaan Malik Website
+# Ayaan Malik Portfolio
 
-This is a personal website I made to show different sections, pictures, and a clean dark-style design.
+This is a personal portfolio I made to show different sections, pictures, and a clean dark-style design.
 
 ## Features
 
